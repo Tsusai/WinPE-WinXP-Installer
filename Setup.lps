@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="Setup.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Setup"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="22"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="73"/>
+        <CursorPos X="119" Y="35"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="driveselect.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SetupFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Driveselect"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="240"/>
+        <CursorPos X="3" Y="243"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\CodeTyphon\fpcsrc\packages\winunits-base\src\shellapi.pp"/>
+        <UnitName Value="ShellApi"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1458"/>
+        <CursorPos X="10" Y="1482"/>
+        <UsageCount Value="6"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="driveselect.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2244"/>
+        <CursorPos X="35" Y="2273"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="consoleredirect.pas"/>
+        <UnitName Value="consoleredirect"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="16"/>
+        <CursorPos X="26" Y="30"/>
+        <UsageCount Value="18"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\CodeTyphon\fpcsrc\rtl\win\wininc\struct.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6649"/>
+        <CursorPos X="6" Y="6664"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\CodeTyphon\fpcsrc\rtl\win\wininc\messages.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1147"/>
+        <CursorPos X="6" Y="1162"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\CodeTyphon\fpcsrc\rtl\win\wininc\base.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="174"/>
+        <CursorPos X="6" Y="189"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\CodeTyphon\typhon\lcl\lmessages.pp"/>
+        <UnitName Value="LMessages"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="620"/>
+        <CursorPos X="9" Y="635"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="476" Column="25" TopLine="453"/>
+      </Position1>
+      <Position2>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="475" Column="25" TopLine="452"/>
+      </Position2>
+      <Position3>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="474" Column="25" TopLine="451"/>
+      </Position3>
+      <Position4>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="475" Column="25" TopLine="452"/>
+      </Position4>
+      <Position5>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="480" Column="25" TopLine="457"/>
+      </Position5>
+      <Position6>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="481" Column="25" TopLine="458"/>
+      </Position6>
+      <Position7>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="482" Column="25" TopLine="459"/>
+      </Position7>
+      <Position8>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="481" Column="25" TopLine="458"/>
+      </Position8>
+      <Position9>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="480" Column="25" TopLine="457"/>
+      </Position9>
+      <Position10>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="479" Column="25" TopLine="456"/>
+      </Position10>
+      <Position11>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="478" Column="25" TopLine="455"/>
+      </Position11>
+      <Position12>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="477" Column="25" TopLine="454"/>
+      </Position12>
+      <Position13>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="476" Column="25" TopLine="453"/>
+      </Position13>
+      <Position14>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="475" Column="25" TopLine="452"/>
+      </Position14>
+      <Position15>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="474" Column="25" TopLine="451"/>
+      </Position15>
+      <Position16>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="482" Column="25" TopLine="459"/>
+      </Position16>
+      <Position17>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="481" Column="25" TopLine="458"/>
+      </Position17>
+      <Position18>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="480" Column="25" TopLine="457"/>
+      </Position18>
+      <Position19>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="479" Column="25" TopLine="456"/>
+      </Position19>
+      <Position20>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="482" Column="25" TopLine="459"/>
+      </Position20>
+      <Position21>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="481" Column="25" TopLine="458"/>
+      </Position21>
+      <Position22>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="480" Column="25" TopLine="457"/>
+      </Position22>
+      <Position23>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="479" Column="25" TopLine="456"/>
+      </Position23>
+      <Position24>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="478" Column="25" TopLine="455"/>
+      </Position24>
+      <Position25>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="242" Column="3" TopLine="227"/>
+      </Position25>
+      <Position26>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="243" Column="1" TopLine="228"/>
+      </Position26>
+      <Position27>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="313" Column="27" TopLine="298"/>
+      </Position27>
+      <Position28>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="331" Column="25" TopLine="316"/>
+      </Position28>
+      <Position29>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="477" Column="42" TopLine="462"/>
+      </Position29>
+      <Position30>
+        <Filename Value="driveselect.pas"/>
+        <Caret Line="497" Column="30" TopLine="481"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

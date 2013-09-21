@@ -1,0 +1,14 @@
+object Form1: TForm1
+  Left = 306
+  Height = 92
+  Top = 207
+  Width = 124
+  BorderStyle = bsNone
+  Caption = 'Form1'
+  LCLVersion = '1.1'
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    left = 48
+    top = 24
+  end
+end
